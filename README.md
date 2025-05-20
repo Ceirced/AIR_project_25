@@ -17,7 +17,7 @@ Inside the `task4/subtask_4b/` directory, there are three directories categorize
 2. Representation learning
 3. Neural reranking
 
-In every directory there are several notebooks, which are executable out of the box except for two notebooks:
+In each of these three directories there are several notebooks, which are executable out of the box except for two notebooks:
 - `embedding_gpt.ipynb` and `reranking_gpt.ipynb` require an OPENAI_KEY
 
 
