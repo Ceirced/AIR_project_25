@@ -12,6 +12,7 @@ dependencies = [
     "numpy (>=2.2.4,<3.0.0)",
     "ipykernel (>=6.29.5,<7.0.0)",
     "sentence-transformers (>=4.0.2,<5.0.0)",
+    "peft (>=0.15.2,<0.16.0)",
 ]
 
 
