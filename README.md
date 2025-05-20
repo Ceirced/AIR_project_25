@@ -12,12 +12,12 @@ To run the notebooks, use a Python version 3.9 and higher and install the requir
 pip install -r requirements.txt
 ```
 
-The repository is structured into three directories categorized by the assigned approaches.
+Inside the `task4/subtask_4b/` directory, there are three directories categorized by the assigned approaches:
 1. Traditional information retrieval
 2. Representation learning
 3. Neural reranking
 
-In every directory there are several notebooks, which are executable out of the box except for two notebooks
+In every directory there are several notebooks, which are executable out of the box except for two notebooks:
 - `embedding_gpt.ipynb` and `reranking_gpt.ipynb` require an OPENAI_KEY
 
 
