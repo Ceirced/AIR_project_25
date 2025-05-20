@@ -1,4 +1,7 @@
-# CLEF2025--CheckThat-Lab
+# CLEF2025-CheckThat Competition
+
+## Group 6: TruthTrackers
+
 This repository has been cloned from the original [CLEF 2025 CheckThat Task 4 repository](https://gitlab.com/checkthat_lab/clef2025-checkthat-lab/-/tree/main/task4)
 
 It contains the _dataset_, _format checker, scorer and baselines_ for each task of the [CLEF2025-CheckThat! Lab](https://checkthat.gitlab.io/).
