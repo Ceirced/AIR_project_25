@@ -8,15 +8,16 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Cederic
-    family-names: Demoulin
   - given-names: Theresa
     family-names: Mayer
-  - given-names: Leon
-    family-names: Beccard
+    orcid: 'https://orcid.org/0009-0005-8028-246X'
+  - given-names: Cederic
+    family-names: Demoulin
   - given-names: Viktor
     family-names: Hoffmann
   - given-names: Sven
     family-names: Gerloff
+  - given-names: Leon
+    family-names: Beccard
 repository-code: 'https://github.com/Ceirced/AIR_project_25'
 license: MIT
