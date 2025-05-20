@@ -10,7 +10,6 @@ type: software
 authors:
   - given-names: Theresa
     family-names: Mayer
-    orcid: 'https://orcid.org/0009-0005-8028-246X'
   - given-names: Cederic
     family-names: Demoulin
   - given-names: Viktor

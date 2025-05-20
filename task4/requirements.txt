@@ -1,4 +1,10 @@
-rank_bm25
-numpy
 pandas
-faiss-cpu
+torch
+transformers
+peft
+scikit-learn
+numpy
+tqdm
+rank_bm25
+sentence-transformers
+matplotlib
