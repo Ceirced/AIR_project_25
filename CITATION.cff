@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: AIR_project_25
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Cederic
+    family-names: Demoulin
+  - given-names: Theresa
+    family-names: Mayer
+  - given-names: Leon
+    family-names: Beccard
+  - given-names: Viktor
+    family-names: Hoffmann
+  - given-names: Sven
+    family-names: Gerloff
+repository-code: 'https://github.com/Ceirced/AIR_project_25'
+license: MIT
